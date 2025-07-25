@@ -3,15 +3,15 @@ import { useState } from "react";
 
 const games = [
   { title: "Flappy Brace", slug: "game-one", clip: "/game-clips/flappy-brace.mp4" },
-  { title: "Game Two", slug: "game-two", clip: "/game-clips/game-two.mp4" },
-  { title: "Game Three", slug: "game-three", clip: "/game-clips/game-three.mp4" },
-  { title: "Game Four", slug: "game-four", clip: "/game-clips/game-four.mp4" },
-  { title: "Game Five", slug: "game-five", clip: "/game-clips/game-five.mp4" },
-  { title: "Game Six", slug: "game-six", clip: "/game-clips/game-six.mp4" },
-  { title: "Game Seven", slug: "game-seven", clip: "/game-clips/game-seven.mp4" },
-  { title: "Game Eight", slug: "game-eight", clip: "/game-clips/game-eight.mp4" },
-  { title: "Game Nine", slug: "game-nine", clip: "/game-clips/game-nine.mp4" },
-  { title: "Game Ten", slug: "game-ten", clip: "/game-clips/game-ten.mp4" },
+  { title: "Bubble Brace", slug: "game-two", clip: "/game-clips/game-two.mp4" },
+  { title: "Gegssend Go", slug: "game-three", clip: "/game-clips/game-three.mp4" },
+  { title: "Brace Invaders", slug: "game-four", clip: "/game-clips/game-four.mp4" },
+  { title: "Gabrer Gravity", slug: "game-five", clip: "/game-clips/game-five.mp4" },
+  { title: "Brace Mountain", slug: "game-six", clip: "/game-clips/game-six.mp4" },
+  { title: "Gabrer Gang", slug: "game-seven", clip: "/game-clips/game-seven.mp4" },
+  { title: "Crush & Brace", slug: "game-eight", clip: "/game-clips/game-eight.mp4" },
+  { title: "Chronicles of Chron", slug: "game-nine", clip: "/game-clips/game-nine.mp4" },
+  { title: "The Pits II", slug: "game-ten", clip: "/game-clips/game-ten.mp4" },
 ];
 
 export default function HomePage() {
